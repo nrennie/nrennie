@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**nrennie/nrennie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicola Rennie, a data scientist at [Jumping Rivers](https://www.jumpingrivers.com/). Most of the projects you'll see here use R, although there is some Python, JavaScript, and CSS sprinkled throughout.
 
-Here are some ideas to get you started:
+Projects you'll find here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data visualisation
+- 🎨 Generative art
+- 🔬 Code relating to research papers
+- 📦 R packages
+ 
+If you want to find out more, you can check out [my website](https://nrennie.rbind.io/).
+ 

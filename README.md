@@ -5,6 +5,7 @@ I'm Nicola Rennie, an academic and data scientist. Most of the projects you'll s
 Projects you'll find here:
 
 - 📦 R packages
+- 🐍 Python packages
 - 📊 Data visualisation
 - 🎨 Generative art
 - 🔬 Academic research

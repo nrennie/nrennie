@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Nicola Rennie, an academic and data scientist. Most of the projects you'll see here use R, although there is some Python, Julia, JavaScript, and CSS sprinkled throughout.
+I'm Nicola Rennie, an academic and data scientist. Most of the projects you'll see here use either R, Python, Rust, or Julia, with some JavaScript and CSS (among other things) sprinkled throughout.
 
 Projects you'll find here:
 

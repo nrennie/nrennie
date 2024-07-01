@@ -2,6 +2,8 @@
 
 I'm Nicola Rennie, an academic and data scientist. Most of the projects you'll see here use either R, Python, Rust, or Julia, with some JavaScript and CSS (among other things) sprinkled throughout.
 
+![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrennie&theme=transparent)
+
 Projects you'll find here:
 
 - 📦 R packages

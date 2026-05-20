@@ -19,4 +19,6 @@ Projects you'll find here:
 - 🔬 Academic research
 - 📝 Automated reporting
 
+Some of my projects have mover to GitLab, so you'll find other projects at [gitlab.com/nrennie](https://gitlab.com/nrennie).
+
 If you want to find out more, you can check out [my website](https://nrennie.rbind.io/). You can also find me on [LinkedIn](https://www.linkedin.com/in/nicola-rennie/), [BlueSky](https://bsky.app/profile/nrennie.bsky.social), or <a rel="me" href="https://fosstodon.org/@nrennie">Mastodon</a>. My website also has a full list of my [publications](https://nrennie.rbind.io/projects/publications/).
